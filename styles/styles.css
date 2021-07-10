@@ -1421,6 +1421,7 @@ h2 {
 
 }
 
+
 @media only screen and (max-width: 1000px) {
     .proj-cover-photos {
         width: 320px;
@@ -1556,8 +1557,16 @@ h2 {
     }
 }
 
+#course-browser-splash-back{
+    margin-bottom: -12em;
+}
 
-@media only screen and (max-width: 700px) {
+
+@media only screen and (max-width: 720px) {
+    #course-browser-splash-back{
+        margin-bottom: -6em;
+    }
+
     .each-class-group {
         flex-direction: column;
         align-items: flex-start;
