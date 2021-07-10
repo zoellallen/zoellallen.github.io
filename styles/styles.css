@@ -81,7 +81,6 @@ h5{
 }
 
 .site-spacing-extra-small .site-header, .site-spacing-extra-small .site-page, .site-spacing-extra-small .site-footer {
-    margin: 1.5vw auto;
 }
 
 .site-outer-padding-medium .site-header, .site-outer-padding-medium .site-footer {
@@ -108,6 +107,7 @@ h5{
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    overflow: hidden;
 }
 
 html {
