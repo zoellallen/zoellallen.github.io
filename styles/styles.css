@@ -754,6 +754,7 @@ nav a:link, nav a:visited {
 }
 
 .splash-header {
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 52px;
