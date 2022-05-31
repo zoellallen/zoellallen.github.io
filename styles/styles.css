@@ -541,6 +541,18 @@ h3 {
     margin-bottom: 12px !important;
 }
 
+.h3-span{
+    
+    font-style: normal;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    line-height: 120%;
+    letter-spacing: -0.003em;
+
+    color: #2B273C;
+    margin-bottom: 12px !important;
+}
+
 .sqs-block-button .sqs-block-button-element {
     display: inline-block;
     width: auto;
